@@ -14,3 +14,4 @@ run_list 'nodejsExample::default'
 
 # Specify a custom source for a single cookbook:
 cookbook 'nodejsExample', path: '.'
+# cookbook 'nodejs', '~> 5.0.0'
